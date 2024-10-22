@@ -29,6 +29,6 @@
 ## 效果图
 ![PixPin_2024-10-22_17-23-45](https://github.com/user-attachments/assets/38b1c0a5-4a4c-4a04-9b59-4d61a7f07caf)
 
-*made by 24级新生*
+made by *某24级新生*
 
 代码写得不是很规范（~~能跑就行~~）
