@@ -1,5 +1,6 @@
 # NSUnetwork
 成都东软学院校园网自动连接/防止断连
+原理：模拟请求
 # 如何获取“一次性密钥” ？
 ![PixPin_2024-10-22_17-29-30](https://github.com/user-attachments/assets/f5e1629a-0cda-4909-90c0-92561b342692)
 # 如何编辑配置文件 ？
