@@ -1,0 +1,9 @@
+{
+    "username": "学号",
+    "password": "一次性密钥",
+    "testtime": 5,
+    "timeout": 5,
+    "outInFirstRequest": false,
+    "autoOutOtherIp": true,
+    "networkName": "学生-移动-100M"
+}
