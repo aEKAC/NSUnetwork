@@ -26,7 +26,7 @@
     "networkName" : "学生-移动-100M" #自动连接的网络名称
 }
 ```
-## 效果图
+# 运行图
 ![PixPin_2024-10-22_17-23-45](https://github.com/user-attachments/assets/38b1c0a5-4a4c-4a04-9b59-4d61a7f07caf)
 
 made by *某24级新生*
