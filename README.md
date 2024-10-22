@@ -1,10 +1,14 @@
 # NSUnetwork
 成都东软学院校园网自动连接/防止断连
+
 原理：模拟请求
+
 # 如何获取“一次性密钥” ？
 ![PixPin_2024-10-22_17-29-30](https://github.com/user-attachments/assets/f5e1629a-0cda-4909-90c0-92561b342692)
+
 # 如何编辑配置文件 ？
 ![PixPin_2024-10-22_17-32-07](https://github.com/user-attachments/assets/0ba88549-ad55-4d7f-9628-976ee488cd4f)
+
 # 配置文件中的参数：
 ```py
     "username" : '学号',             #填写自己登录校园网的学号
@@ -18,4 +22,6 @@
 ## 效果图
 ![PixPin_2024-10-22_17-23-45](https://github.com/user-attachments/assets/38b1c0a5-4a4c-4a04-9b59-4d61a7f07caf)
 
-made by 24级新生
+*made by 24级新生*
+
+代码写得不是很规范（~~能跑就行~~）
