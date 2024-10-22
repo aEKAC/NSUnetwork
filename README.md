@@ -4,7 +4,7 @@
 ![PixPin_2024-10-22_17-29-30](https://github.com/user-attachments/assets/f5e1629a-0cda-4909-90c0-92561b342692)
 # 如何编辑配置文件 ？
 ![PixPin_2024-10-22_17-32-07](https://github.com/user-attachments/assets/0ba88549-ad55-4d7f-9628-976ee488cd4f)
-## data文件的参数：
+# 配置文件中的参数：
 ```py
     "username" : '学号',             #填写自己登录校园网的学号
     "password" : '一次性密钥',       #网页登录后cookie中获取
